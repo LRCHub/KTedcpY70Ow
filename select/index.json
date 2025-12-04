@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "夜王子と月の姫",
+  "base_artist": "銀杏BOYZ",
+  "createdAt": "2025-12-04T19:09:01.367604Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "夜王子と月の姫",
+      "artist": "セントチヒロ・チッチ",
+      "has_synced": false,
+      "path": "select/01_夜王子と月の姫_セントチヒロ・チッチ.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Youji To Tsuki No Hime [夜王子と月の姫]",
+      "artist": "Ging Nang BOYZ",
+      "has_synced": true,
+      "path": "select/02_Youji_To_Tsuki_No_Hime_[夜王子と月の姫]_Ging_Nang_BOYZ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "夜王子と月の姫",
+      "artist": "GOING STEADY",
+      "has_synced": true,
+      "path": "select/03_夜王子と月の姫_GOING_STEADY.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夜王子と月の姫",
+      "artist": "銀杏BOYZ",
+      "has_synced": false,
+      "path": "select/pl_01_夜王子と月の姫_銀杏BOYZ.txt"
+    }
+  ]
+}
